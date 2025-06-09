@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-test
+# [Homepage](https://c-puente.github.io/public-page/home)
