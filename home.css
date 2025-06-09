@@ -87,30 +87,22 @@ a.here:link{
 	text-align: center;
 }
 
-.icon-row {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 3%;              /* space between icons */
-  width: 100%;
-  margin-top: 10px;
-}
 
 #linkedin{
-	height: 10%;
-	width: 10%;
+	height: 20%;
+	width: 20%;
 	background-image: url('images/linkedin-grey.png');
-	background-size: contain;
+	background-size: 100%;
 	background-repeat: no-repeat;
 	text-align: center;
 	margin-left: 10%;
 	
 }
 #linkedin:hover {
-	height: 10%;
-	width: 10%;
+	height: 20%;
+	width: 20%;
 	background-image: url("images/linkedin-color.png");
-	background-size: contain;
+	background-size: 100%;
 	background-repeat: no-repeat;
 	text-align: center;
 	margin-left: 10%;
@@ -118,12 +110,13 @@ a.here:link{
 }
 
 #hackerrank {
-	height: 10%;
-	width: 10%;
+	height: 20%;
+	width: 20%;
 	background-image: url('images/hackerrank-grey.png');
-	background-size: contain;
+	background-size: 100%;
 	background-repeat: no-repeat;
 	text-align: center;
+	margin-left: 10%;
 }
 
 #hackerrank:hover {
@@ -141,8 +134,8 @@ a.here:link{
 	
 }
 #email:hover {
-	height: 20.6%;
-	width: 20.6%;
+	height: 20.7%;
+	width: 20.7%;
 	background-image: url("images/email-color.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
