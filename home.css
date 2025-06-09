@@ -113,7 +113,7 @@ a.here:link{
 	height: 30%;
 	width: 30%;
 	background-image: url('images/hackerrank-grey.png');
-	background-size: 100%;
+	background-size: contain;
 	background-repeat: no-repeat;
 	text-align: center;
 	margin-left: 40%;
