@@ -88,10 +88,10 @@ a.here:link{
 }
 
 .icon-row {
-	display: flex;
+	display: inline-block;
 	justify-content: center;
 	align-items: center;
-	gap: 20px; 
+	gap: 10px; 
 	margin-top: 10px;
 }	
 #linkedin{
@@ -111,7 +111,7 @@ a.here:link{
 	background-size: 100%;
 	background-repeat: no-repeat;
 	text-align: center;
-	margin-left: 42%;
+	margin-left: 32%;
 
 }
 
