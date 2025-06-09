@@ -110,13 +110,13 @@ a.here:link{
 }
 
 #hackerrank {
-	height: 25%;
-	width: 25%;
+	height: 30%;
+	width: 30%;
 	background-image: url('images/hackerrank-grey.png');
 	background-size: 100%;
 	background-repeat: no-repeat;
 	text-align: center;
-	margin-left: 42%;
+	margin-left: 40%;
 	margin-top: 12%;
 }
 
